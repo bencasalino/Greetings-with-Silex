@@ -1,31 +1,19 @@
-#{Greeting with Silex}
+#Greeting with Silex via PHP
 
-#####{Tuesday's Epicodus Lesson}, {8/4/2015}
+####{Tuesday's Epicodus Lesson}, {8/4/2015}
 
-####By { BC, JJ}
-
-##Description
-
-{This is a detailed description of your application. Give as much detail as needed to explain what the application does, and any other information you'd like users or other developers to have. Do you want other developers to use this code in their apps? Talk about things like that here in simple terms.}
-
-##Setup
-
-This is a great place
-to list setup instructions
-in a simple
-easy-to-understand
-format
-{Don't leave anything to chance! You want it to be easy for potential employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Are there other applications this app depends on?}
+###By BC and JJ
 
 ##Technologies Used
 
-{Tell me about the languages you used to create this app. Assume that I know you probably used HTML and CSS. If you did something really cool using only HTML, point that out.}
+*HTML
+*CSS
+*PHP
+*Silex
 
 ###Legal
 
-{This is boilerplate legal language. Read through it, and if you like it, use it. There are other license agreements online, but you can generally copy and paste this.}
-
-Copyright (c) 2015 {List of contribtors}
+Copyright (c) 2015 {BC and JJ}
 
 This software is licensed under the MIT license.
 
