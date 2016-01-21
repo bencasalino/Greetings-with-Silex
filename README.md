@@ -1,6 +1,6 @@
 #Greeting with Silex via PHP
 
-####{Tuesday's Epicodus Lesson}, {8/4/2015}
+#### Tuesday's Epicodus Lesson, 8/4/2015
 
 ###By BC and JJ
 
