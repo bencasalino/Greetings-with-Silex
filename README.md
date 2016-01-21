@@ -6,10 +6,10 @@
 
 ##Technologies Used
 
-*HTML
-*CSS
-*PHP
-*Silex
+* HTML
+* CSS
+* PHP
+* Silex
 
 ###Legal
 
